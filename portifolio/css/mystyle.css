@@ -1,0 +1,33 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+body, html {
+  height: 100%;
+  color: #2d3c49;
+  line-height: 1.8;
+}
+
+
+.line-separator{
+
+    height:1px;
+    background:#2d3c49;
+    border-bottom:1px solid #313030;
+    
+}
+
+.panel-heading {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 200%;
+    color: #7d97ad;
+}
+.panel-footer{
+    font-size: 150%;
+    text-align: center;
+
+}
+
+.img-responsive{
+    width: 100%;
+}
+.rounded.float-left{
+    width: 10%
+}
